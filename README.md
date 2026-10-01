@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi 👋
+
+I'm learning to build and ship software, and this is where I keep track of it.
+
+## What I'm learning
+- ☁️ **Cloud engineering**: infrastructure, deployment, and how it all fits together
+- 💻 **Coding**: getting better at writing clean, useful code
+- 🗄️ **Databases**: SQL, PostgreSQL, and designing data that makes sense
+
+## What you'll find here
+Projects, experiments, and notes from my learning journey. Some of it will be messy, and that's part of the process
 
 <!--
 **jesse610/jesse610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
