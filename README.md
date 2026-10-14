@@ -10,7 +10,7 @@ I'm learning to build and ship software, and this is where I keep track of it.
 ## What you'll find here
 Projects, experiments, and notes from my learning journey. Some of it will be messy, and that's part of the process
 
-##Socials
+## Socials
 LinkedIn: https://www.linkedin.com/in/jessevelasquez/
 
 <!--
